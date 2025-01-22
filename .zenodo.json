@@ -1,13 +1,4 @@
 {
-  "access": {
-    "embargo": {
-      "active": false,
-      "reason": null
-    },
-    "files": "public",
-    "record": "public",
-    "status": "open"
-  },
   "metadata": {
     "creators": [
       {
@@ -288,52 +279,5 @@
         }
       }
     ],
-    "description": "<p>Version of SWIFT subtask used in Roche et al. (2025), &quot;Mechanisms and scaling of near- and far-field atmospheric loss during giant impacts&quot;.</p>",
-    "publisher": "Zenodo",
-    "related_identifiers": [
-      {
-        "identifier": "https://github.com/mjr230600/swiftsim/tree/v0.9.0-subtask-Roche-v1.0",
-        "relation_type": {
-          "id": "issupplementto",
-          "title": {
-            "de": "Erg\u00e4nzt",
-            "en": "Is supplement to"
-          }
-        },
-        "resource_type": {
-          "id": "software",
-          "title": {
-            "de": "Software",
-            "en": "Software"
-          }
-        },
-        "scheme": "url"
-      }
-    ],
-    "resource_type": {
-      "id": "software",
-      "title": {
-        "de": "Software",
-        "en": "Software"
-      }
-    },
-    "rights": [
-      {
-        "description": {
-          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
-        },
-        "icon": "cc-by-icon",
-        "id": "cc-by-4.0",
-        "props": {
-          "scheme": "spdx",
-          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
-        },
-        "title": {
-          "en": "Creative Commons Attribution 4.0 International"
-        }
-      }
-    ],
-    "title": "mjr230600/swiftsim: Version used in Roche et al. (2025)",
-    "version": "v0.9.0-subtask-Roche-v1.0"
   },
 }

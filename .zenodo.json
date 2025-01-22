@@ -1,0 +1,339 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "name": "University of Bristol"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Matthew Roche",
+          "name": "Matthew Roche",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Leiden Observatory & Leiden Institute of Physics"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Matthieu Schaller",
+          "name": "Matthieu Schaller",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Durham University"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Peter W. Draper",
+          "name": "Peter W. Draper",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "@google"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Pedro Gonnet",
+          "name": "Pedro Gonnet",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "Folkert Nobels",
+          "name": "Folkert Nobels",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "Loic Hausammann",
+          "name": "Loic Hausammann",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "University of Pennsylvania"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Josh Borrow",
+          "name": "Josh Borrow",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "Mladen Ivkovic",
+          "name": "Mladen Ivkovic",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Durham University"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Jacob Kegerreis",
+          "name": "Jacob Kegerreis",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "Bert Vandenbroucke",
+          "name": "Bert Vandenbroucke",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "John Helly",
+          "name": "John Helly",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "Willem Elbers",
+          "name": "Willem Elbers",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "stefan-arridge",
+          "name": "stefan-arridge",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Leiden University"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Yannick Bah\u00e9",
+          "name": "Yannick Bah\u00e9",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "Angus Lepper",
+          "name": "Angus Lepper",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "john-regan",
+          "name": "john-regan",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "FilipHusko",
+          "name": "FilipHusko",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "aborissov",
+          "name": "aborissov",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "yrevaz",
+          "name": "yrevaz",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Pawsey Supercompting Research Centre"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Pascal Jahan Elahi",
+          "name": "Pascal Jahan Elahi",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "np-complete"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Massimiliano Culpo",
+          "name": "Massimiliano Culpo",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "Evgenii Chaikin",
+          "name": "Evgenii Chaikin",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "rgbower",
+          "name": "rgbower",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "sylviaploeckinger",
+          "name": "sylviaploeckinger",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "AidanChalk",
+          "name": "AidanChalk",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "rtobar",
+          "name": "rtobar",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "LonelyCat124",
+          "name": "LonelyCat124",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "EPFL"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Darwin Roduit",
+          "name": "Darwin Roduit",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "@qiskit"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Edoardo Altamura",
+          "name": "Edoardo Altamura",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "fjeanquartier",
+          "name": "fjeanquartier",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "EPFL"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Patrick Hirling",
+          "name": "Patrick Hirling",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<p>Version of SWIFT subtask used in Roche et al. (2025), &quot;Mechanisms and scaling of near- and far-field atmospheric loss during giant impacts&quot;.</p>",
+    "publisher": "Zenodo",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/mjr230600/swiftsim/tree/v0.9.0-subtask-Roche-v1.0",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Erg\u00e4nzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        },
+        "scheme": "url"
+      }
+    ],
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "title": "mjr230600/swiftsim: Version used in Roche et al. (2025)",
+    "version": "v0.9.0-subtask-Roche-v1.0"
+  },
+}
